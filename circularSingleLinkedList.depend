@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608640171 source:d:\collage\terms1\ds\ds_projects\circularsinglelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"circularLinked.h"
+
+1608640223 d:\collage\terms1\ds\ds_projects\circularsinglelinkedlist\circularlinked.h
+
+1608640430 source:d:\collage\terms1\ds\ds_projects\circularsinglelinkedlist\circularlinked.c
+	"circularLinked.h"
+	<stddef.h>
+
